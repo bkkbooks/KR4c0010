@@ -227,6 +227,7 @@ markers:
   - {type: line-break, offset: 799, content: '', id: KR4c0010_WYG_006-3b02}
   - {type: substitution, offset: 799, original: 盖, replacement: 蓋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17353}}
   - {type: punctuation, offset: 810, content: (, id: KR4c0010_krp_006-bkkpn1}
+  - {type: voice, offset: 810, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 811, content: /, id: KR4c0010_krp_006-bkkpn2}
   - {type: punctuation, offset: 812, content: ), id: KR4c0010_krp_006-bkkpn3}
   - {type: 'kr:newline', offset: 812, content: '
@@ -240,6 +241,7 @@ markers:
   - {type: line-break, offset: 833, content: '', id: KR4c0010_WYG_006-3b04}
   - {type: substitution, offset: 839, original: 昇, replacement: 升, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16205}}
   - {type: punctuation, offset: 844, content: (, id: KR4c0010_krp_006-bkkpn4}
+  - {type: voice, offset: 844, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 845, content: /, id: KR4c0010_krp_006-bkkpn5}
   - {type: punctuation, offset: 846, content: ), id: KR4c0010_krp_006-bkkpn6}
   - {type: 'kr:newline', offset: 846, content: '
@@ -252,6 +254,7 @@ markers:
       ', id: KR4c0010_krp_006-bkkkrnewl50}
   - {type: line-break, offset: 867, content: '', id: KR4c0010_WYG_006-3b06}
   - {type: punctuation, offset: 878, content: (, id: KR4c0010_krp_006-bkkpn7}
+  - {type: voice, offset: 878, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 879, content: /, id: KR4c0010_krp_006-bkkpn8}
   - {type: punctuation, offset: 880, content: ), id: KR4c0010_krp_006-bkkpn9}
   - {type: 'kr:newline', offset: 880, content: '
@@ -266,6 +269,7 @@ markers:
   - {type: line-break, offset: 901, content: '', id: KR4c0010_WYG_006-3b08}
   - {type: substitution, offset: 906, original: 黄, replacement: 黃, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20825}}
   - {type: punctuation, offset: 912, content: (, id: KR4c0010_krp_006-bkkpn10}
+  - {type: voice, offset: 912, length: 2, name: note, id: n4}
   - {type: punctuation, offset: 913, content: /, id: KR4c0010_krp_006-bkkpn11}
   - {type: punctuation, offset: 914, content: ), id: KR4c0010_krp_006-bkkpn12}
   - {type: 'kr:newline', offset: 914, content: '
@@ -285,6 +289,7 @@ markers:
   - {type: line-break, offset: 935, content: '', id: KR4c0010_WYG_006-4a02}
   - {type: substitution, offset: 941, original: 懐, replacement: 懷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20626}}
   - {type: punctuation, offset: 946, content: (, id: KR4c0010_krp_006-bkkpn13}
+  - {type: voice, offset: 946, length: 2, name: note, id: n5}
   - {type: punctuation, offset: 947, content: /, id: KR4c0010_krp_006-bkkpn14}
   - {type: punctuation, offset: 948, content: ), id: KR4c0010_krp_006-bkkpn15}
   - {type: 'kr:newline', offset: 948, content: '
@@ -297,6 +302,7 @@ markers:
       ', id: KR4c0010_krp_006-bkkkrnewl57}
   - {type: line-break, offset: 969, content: '', id: KR4c0010_WYG_006-4a04}
   - {type: punctuation, offset: 984, content: (, id: KR4c0010_krp_006-bkkpn16}
+  - {type: voice, offset: 984, length: 2, name: note, id: n6}
   - {type: punctuation, offset: 985, content: /, id: KR4c0010_krp_006-bkkpn17}
   - {type: punctuation, offset: 986, content: ), id: KR4c0010_krp_006-bkkpn18}
   - {type: 'kr:newline', offset: 986, content: '
@@ -1113,4 +1119,4 @@ markers:
 
       ', id: KR4c0010_krp_006-bkkkrnewl233}
   back: []
-hash: sha256:9e6cf89f5a29a7117d18ffd4e20139baff4c708332a08749f85bd26b06a6a540
+hash: sha256:0eb857250cdeed9f3d2394ace7bfcf9bb68a2653703d57a0819f6273a34200f5
